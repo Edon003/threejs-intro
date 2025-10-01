@@ -31,7 +31,7 @@ scene.add(axes);
 // cubeMesh.rotation.x=Math.PI *0.25;
 // cubeMesh.rotation.y=Math.PI *0.25;
 
-//TRANSFROMATIONS ALL AT ONCE
+//transform all at once
 
 // cubeMesh.position.x=0.7;
 // cubeMesh.position.y=-0.6;
